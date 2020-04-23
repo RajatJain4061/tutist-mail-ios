@@ -1,17 +1,9 @@
 
-# iOS-mail
+# TutistMail iOS
 
 ## Introduction
 
-iOS-mail — ProtonMail iOS client app
-
-The app is intended for all users of the ProtonMail service. Whether they are paid or free, they can compose and read emails, manage folders and labels, manage some account settings and create a new account. The app supports iOS 10-13.
-
-## License
-
-The code and data files in this distribution are licensed under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See <https://www.gnu.org/licenses/> for a copy of this license.
-
-See [LICENSE](LICENSE) file
+The app is intended for all users of the Tutist. Whether they are paid or free, they can compose and read emails, manage folders and labels, manage some account settings and create a new account. The app supports iOS 10-13.
 
 ## Table of Contents
 
